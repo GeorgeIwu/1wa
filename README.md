@@ -1,3 +1,12 @@
+# Click to view App
+
+This project can be viewed at [Friends List](https://georgeiwu.github.io/1wa/#/).
+
+<img width="708" alt="Screenshot 2021-03-04 at 04 18 51" src="https://user-images.githubusercontent.com/28821928/109906416-be0bfb80-7ca0-11eb-9fd1-37d98855f008.png">
+
+<img width="1054" alt="Screenshot 2021-03-04 at 04 17 30" src="https://user-images.githubusercontent.com/28821928/109906458-cd8b4480-7ca0-11eb-8c20-96112d296a00.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -21,8 +30,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds the app for friendion to the `build` folder.\
+It correctly bundles React in friendion mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
