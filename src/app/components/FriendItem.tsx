@@ -71,10 +71,16 @@ const Socail = styled.p`
 `
 
 const Description = styled.div`
-  font-size: 16px;
   font-weight: 400;
-  line-height: 26px;
   margin-top: 15px;
+  font-size: 16px;
+  line-height: 26px;
+
+  @media (max-width: 600px) {
+    margin-top: 10px;
+    font-size: 12px;
+    line-height: 20px;
+  }
 `
 
 const FriendItem = memo(({ friend, follow, unfollow, isFollowing = false, translate = (text: string) => text }: {
